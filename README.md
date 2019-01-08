@@ -1,7 +1,7 @@
-<a href="https://github.com/mgks/Android-SmartWebView/"><img src="https://raw.githubusercontent.com/mgks/Android-SmartWebView/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="65"></a>
+<a href="https://github.com/iwansafr/webview"><img src="https://www.esoftgreat.com/images/logo.png" width="65"></a>
 
 # Android Smart WebView 
-[![alt text](https://img.shields.io/badge/language-java-red.svg "Build with Java")](https://github.com/mgks/Android-SmartWebView/) [![alt text](https://img.shields.io/badge/version-3.0-green.svg "Smart WebView Current Version")](https://github.com/mgks/Android-SmartWebView/releases) [![MIT Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php) [![alt text](https://img.shields.io/badge/visit-ASWV%20Page-black.svg "ASWV GitHub Page")](https://mgks.github.io/Android-SmartWebView/)<br>[![alt text](https://img.shields.io/badge/explore-Smart%20WebView%20Pro-yellow.svg "Get Smart WebView Pro")](https://github.com/voinsource/SmartWebView-Pro)
+[![alt text](https://img.shields.io/badge/language-java-red.svg "Build with Java")](https://github.com/iwansafr/webview/) [![alt text](https://img.shields.io/badge/version-3.0-green.svg "Smart WebView Current Version")](https://github.com/iwansafr/webview/releases) [![MIT Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/mit-license.php) [![alt text](https://img.shields.io/badge/visit-ASWV%20Page-black.svg "ASWV GitHub Page")](https://mgks.github.io/webview/)<br>[![alt text](https://img.shields.io/badge/explore-Smart%20WebView%20Pro-yellow.svg "Get Smart WebView Pro")](https://github.com/voinsource/SmartWebView-Pro)
 
 This project is developed to help you create Hybrid Android applications with just webview. Hybrid app comes in between webview and native forms, with this project you can embed any existing webpage or setup an Offline HTML/CSS/Javascript based project.
 
@@ -53,7 +53,7 @@ static boolean ASWP_EXTURL      = true;     //open external url with default bro
 #### Configuration variables
 Complete URL of your website, landing page or local file as `file:///android_res/dir/file.html`
 ```java
-ASWV_URL      = "https://github.com/mgks";	//domain, or directory or locating to any root file
+ASWV_URL      = "https://github.com/iwansafr";	//domain, or directory or locating to any root file
 ```
 
 If file upload enabled, you can define its extention type, default is `*/*` for all file types;
@@ -104,7 +104,6 @@ Post in Github Repo issues section if you got any problem handling the project a
 
 **A personal note:** `You all must keep up with programming. It's sometimes difficult and sometimes easy but fun afterall, you can create your own world with programming and that's the beauty of it. So, all the best for your next creation.`
 
-This project is initially developed by **[Ghazi Khan](https://github.com/mgks)**.
 
-[![Profile](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/mgks)
-![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fmgks%2FAndroid-SmartWebView&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-129370045-1&z=887657232 "ga tracker")
+[![Profile](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/iwansafr)
+![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fmgks%2Fwebview&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-129370045-1&z=887657232 "ga tracker")
