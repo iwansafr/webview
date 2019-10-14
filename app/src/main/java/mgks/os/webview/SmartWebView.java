@@ -15,17 +15,17 @@ class SmartWebView {
 	static boolean ASWP_FUPLOAD     = true;     //upload file from webview
 	static boolean ASWP_CAMUPLOAD   = true;     //enable upload from camera for photos
 	static boolean ASWP_ONLYCAM		 = false;    //incase you want only camera files to upload
- 	static boolean ASWP_MULFILE     = false;    //upload multiple files in webview
+ 	static boolean ASWP_MULFILE     = true;    //upload multiple files in webview
 	static boolean ASWP_LOCATION    = true;     //track GPS locations
 	static boolean ASWP_RATINGS     = true;     //show ratings dialog; auto configured, edit method get_rating() for customizations
-	static boolean ASWP_PBAR        = false;    //show progress bar in app
-	static boolean ASWP_ZOOM        = false;    //zoom control for webpages view
-	static boolean ASWP_SFORM       = false;    //save form cache and auto-fill information
+	static boolean ASWP_PBAR        = true;    //show progress bar in app
+	static boolean ASWP_ZOOM        = true;    //zoom control for webpages view
+	static boolean ASWP_SFORM       = true;    //save form cache and auto-fill information
 	static boolean ASWP_OFFLINE     = false;    //whether the loading webpages are offline or online
 	static boolean ASWP_EXTURL      = true;     //open external url with default browser instead of app webview
 
 	//Configuration variables
-	static String ASWV_URL          = "https://www.esoftgreat.com/admin"; //complete URL of your website or webpage
+	static String ASWV_URL          = "https://batang.sipapat.id"; //complete URL of your website or webpage
 	static String ASWV_F_TYPE       = "images/*";  //to upload any file type using "*/*"; check file type references for more
 
 	//Rating system variables
